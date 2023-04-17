@@ -5,13 +5,13 @@ An unblocking method for School Issued Chromebooks to get around Securly, GoGuar
   
 Directions!
 
-  1. Make a folder in your bookmarks bar/other bookmarks
+1. Make a folder in your bookmarks bar/other bookmarks
   
-  2. go into folder, right click > add page > chrome://settings/signOut
+2. go into folder, right click > add page > chrome://settings/signOut
     
-   3.Right Click > Add Page > chrome://restart
+3.Right Click > Add Page > chrome://restart
       
-  4. Right Click > Add Page > tinyurl.com/addsession
+4. Right Click > Add Page > tinyurl.com/addsession
 
 Then every time you restart your chromebook, just click the bookmarks in that order.
 
