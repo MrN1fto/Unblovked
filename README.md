@@ -9,7 +9,7 @@ Directions!
   
   2. go into folder, right click > add page > chrome://settings/signOut
     
-  3.Right Click > Add Page > chrome://restart
+   3.Right Click > Add Page > chrome://restart
       
   4. Right Click > Add Page > tinyurl.com/addsession
 
